@@ -31,7 +31,7 @@ namespace MySecondApp
         }
     }
 
-    [VehicleDescription(Description ="Му Rocking Suzuki")]
+    [VehicleDescription(Description ="Му Rockingg Suzuki")]
     public class Moto
     {
         public string Name { get; set; }
