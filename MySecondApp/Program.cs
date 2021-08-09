@@ -13,7 +13,7 @@ namespace MySecondApp
         => Description = vehicalDescnption;
         public VehicleDescriptionAttribute() { }
     }
-    [VehicleDescription("Му Auto AUD")]
+    [VehicleDescription("Му Auto AU")]
     public class Car
     {
         public string Name { get; set; }
